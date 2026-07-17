@@ -1,0 +1,6 @@
+*
+!.gitignore
+
+!blender_files/
+blender_files/*
+!blender_files/*.glb
